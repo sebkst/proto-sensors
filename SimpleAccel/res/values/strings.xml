@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Salut</string>
+    <string name="action_settings">Parametri</string>
+    <string name="hello_world">titre</string>
+
+</resources>
